@@ -1,0 +1,578 @@
+Date,Month,Views,Average_View_Duration,Subscribers_Gained,Watch_Time_Hours,Revenue,Age_Group,Gender,Device,Source,Country
+01-01-25,Jan,615,10,38,212,1581,45-54,Male,Mobile,YouTube Search,United States
+02-01-25,Jan,4667,21,0,349,750,35-44,Female,Mobile,Browse Features,United States
+03-01-25,Jan,2218,41,-1,210,737,18-24,Female,Desktop,Browse Features,United States
+04-01-25,Jan,1077,15,41,40,2059,18-24,Male,Tablet,Suggested Videos,United States
+05-01-25,Jan,868,10,49,175,256,25-34,Male,Mobile,YouTube Search,United States
+06-01-25,Jan,1974,31,3,161,117,25-34,Male,Mobile,Direct,United States
+07-01-25,Jan,702,22,9,288,695,35-44,Female,Mobile,YouTube Search,United States
+08-01-25,Jan,3117,27,2,142,1330,18-24,Male,Mobile,YouTube Search,United States
+09-01-25,Jan,1448,17,28,212,1040,55+,Male,Mobile,External,United States
+10-01-25,Jan,707,18,39,28,1475,45-54,Female,Mobile,YouTube Search,United States
+11-01-25,Jan,3027,22,-5,146,1529,13-17,Male,Mobile,External,United States
+12-01-25,Jan,4138,3,30,97,2309,35-44,Male,Mobile,Browse Features,United States
+13-01-25,Jan,1141,34,6,125,1659,25-34,Male,Mobile,Suggested Videos,United States
+14-01-25,Jan,1519,9,28,182,1282,18-24,Female,Mobile,Direct,United States
+15-01-25,Jan,4487,3,27,369,1016,25-34,Male,Desktop,Channel Pages,United States
+16-01-25,Jan,3284,17,36,444,2376,25-34,Male,Mobile,YouTube Search,United States
+17-01-25,Jan,1578,22,17,113,1396,18-24,Male,TV,YouTube Search,United States
+18-01-25,Jan,4657,36,48,245,259,18-24,Male,Mobile,Direct,United States
+19-01-25,Jan,4367,37,22,335,1699,18-24,Male,Desktop,External,United States
+20-01-25,Jan,546,41,34,371,1298,25-34,Female,Desktop,Direct,United States
+21-01-25,Jan,2974,27,36,162,416,45-54,Male,Mobile,Suggested Videos,United States
+22-01-25,Jan,2056,18,29,402,1404,35-44,Male,Desktop,Browse Features,United States
+23-01-25,Jan,1519,29,50,278,622,18-24,Female,Mobile,Suggested Videos,United States
+24-01-25,Jan,3071,21,15,161,1629,35-44,Female,Mobile,Suggested Videos,United States
+25-01-25,Jan,516,26,45,112,62,25-34,Female,Mobile,Suggested Videos,United States
+26-01-25,Jan,4045,14,10,291,748,35-44,Male,Desktop,YouTube Search,United States
+27-01-25,Jan,2787,18,3,183,2241,18-24,Male,Mobile,Browse Features,United States
+28-01-25,Jan,795,10,50,283,1571,35-44,Male,Mobile,Suggested Videos,United States
+29-01-25,Jan,3968,27,15,67,380,35-44,Male,Mobile,Suggested Videos,United States
+30-01-25,Jan,3440,28,19,255,1281,25-34,Female,Mobile,External,United States
+31-01-25,Jan,4963,14,22,196,1200,25-34,Female,Mobile,External,United States
+01-02-25,Feb,3826,26,23,303,464,18-24,Male,TV,External,United States
+02-02-25,Feb,612,32,16,313,2357,18-24,Male,Mobile,YouTube Search,United States
+03-02-25,Feb,886,25,40,297,83,18-24,Male,Tablet,Suggested Videos,United States
+04-02-25,Feb,1621,10,33,282,15,25-34,Female,Mobile,Suggested Videos,United States
+05-02-25,Feb,4148,36,10,306,241,18-24,Female,Desktop,Suggested Videos,United States
+06-02-25,Feb,4820,34,29,276,1643,25-34,Male,Desktop,YouTube Search,United States
+07-02-25,Feb,4831,12,37,80,1640,35-44,Female,Desktop,Suggested Videos,United States
+08-02-25,Feb,4349,35,8,294,1437,18-24,Male,Tablet,Suggested Videos,United States
+09-02-25,Feb,2946,27,40,74,2125,18-24,Male,Mobile,Browse Features,United States
+10-02-25,Feb,2727,38,36,281,640,13-17,Male,Mobile,External,United States
+11-02-25,Feb,4814,5,10,96,1672,18-24,Male,Tablet,Direct,United States
+12-02-25,Feb,581,36,19,327,1493,18-24,Female,TV,YouTube Search,United States
+13-02-25,Feb,3986,22,2,175,823,18-24,Male,Mobile,YouTube Search,United States
+14-02-25,Feb,4137,33,3,236,1484,25-34,Female,Mobile,Browse Features,United States
+15-02-25,Feb,677,17,-4,196,1209,18-24,Female,Mobile,YouTube Search,United States
+16-02-25,Feb,3294,29,38,294,2115,25-34,Female,Desktop,Browse Features,United States
+17-02-25,Feb,734,6,14,299,1728,25-34,Male,Mobile,Suggested Videos,United States
+18-02-25,Feb,1820,25,-1,296,1029,25-34,Male,Desktop,YouTube Search,United States
+19-02-25,Feb,1406,16,30,86,692,13-17,Male,Mobile,External,United States
+20-02-25,Feb,3252,11,-2,113,1432,25-34,Female,Mobile,External,United States
+21-02-25,Feb,2752,22,11,437,645,13-17,Male,Mobile,YouTube Search,United States
+22-02-25,Feb,4336,20,30,169,2264,35-44,Male,Mobile,YouTube Search,United States
+23-02-25,Feb,2102,15,41,367,23,25-34,Male,Mobile,External,United States
+24-02-25,Feb,1075,25,21,188,2408,18-24,Female,TV,Suggested Videos,United States
+25-02-25,Feb,1570,36,8,293,918,25-34,Male,Mobile,YouTube Search,United States
+26-02-25,Feb,4582,30,4,310,1130,25-34,Female,Mobile,YouTube Search,United States
+27-02-25,Feb,1332,26,0,71,794,25-34,Female,Mobile,YouTube Search,United States
+28-02-25,Feb,3023,8,22,212,1871,45-54,Female,TV,Suggested Videos,United States
+01-03-25,Mar,3544,30,7,232,2137,18-24,Male,Mobile,External,United States
+02-03-25,Mar,3842,8,-4,187,2110,35-44,Male,Mobile,Suggested Videos,United States
+03-03-25,Mar,4122,14,6,449,14,25-34,Male,Mobile,Direct,United States
+04-03-25,Mar,569,29,1,284,982,45-54,Male,Mobile,Suggested Videos,United States
+05-03-25,Mar,1913,24,27,405,1062,25-34,Female,Mobile,External,United States
+06-03-25,Mar,2672,45,11,444,1747,18-24,Male,Mobile,Channel Pages,United States
+07-03-25,Mar,2670,40,-5,250,1572,25-34,Male,Tablet,External,United States
+08-03-25,Mar,1082,34,23,332,1887,45-54,Male,Mobile,Suggested Videos,United States
+09-03-25,Mar,864,40,13,34,553,35-44,Male,Mobile,YouTube Search,United States
+10-03-25,Mar,3179,25,38,388,770,25-34,Female,Desktop,YouTube Search,United States
+11-03-25,Mar,4974,22,18,328,859,45-54,Female,Mobile,Suggested Videos,United States
+12-03-25,Mar,3837,5,44,182,1773,35-44,Male,Mobile,YouTube Search,United States
+13-03-25,Mar,1624,24,29,76,691,18-24,Female,Mobile,Suggested Videos,United States
+14-03-25,Mar,4810,5,7,365,1108,25-34,Male,Mobile,Suggested Videos,United States
+15-03-25,Mar,867,8,45,340,439,35-44,Female,Mobile,Browse Features,United States
+16-03-25,Mar,1106,26,35,205,1146,13-17,Male,Mobile,Suggested Videos,United States
+17-03-25,Mar,1361,22,1,377,643,55+,Male,Desktop,Browse Features,United States
+18-03-25,Mar,2887,33,-3,384,2386,13-17,Male,Desktop,Browse Features,United States
+19-03-25,Mar,1048,39,41,63,1233,45-54,Female,TV,YouTube Search,United States
+20-03-25,Mar,1554,27,33,301,1383,13-17,Male,Mobile,Direct,United States
+21-03-25,Mar,1501,14,35,179,73,18-24,Female,Tablet,Suggested Videos,United States
+22-03-25,Mar,2557,13,40,385,1745,18-24,Female,Mobile,YouTube Search,United States
+23-03-25,Mar,1945,43,33,444,2032,55+,Male,Mobile,External,United States
+24-03-25,Mar,606,24,31,180,1031,13-17,Male,Mobile,YouTube Search,United States
+25-03-25,Mar,1985,40,0,136,1362,13-17,Male,Mobile,Suggested Videos,United States
+26-03-25,Mar,1785,24,29,427,798,25-34,Male,Mobile,YouTube Search,United States
+27-03-25,Mar,622,38,25,101,285,18-24,Male,Mobile,YouTube Search,United States
+28-03-25,Mar,1617,45,23,296,1986,35-44,Male,Mobile,YouTube Search,United States
+29-03-25,Mar,1109,42,38,225,98,25-34,Male,Mobile,Suggested Videos,United States
+30-03-25,Mar,3466,27,33,362,1695,25-34,Female,Desktop,Suggested Videos,United States
+31-03-25,Mar,1677,35,-1,85,2381,35-44,Male,Mobile,YouTube Search,United States
+01-04-25,Apr,1727,31,9,321,2278,35-44,Male,Mobile,External,United States
+02-04-25,Apr,3265,20,-4,319,91,25-34,Male,Desktop,External,United States
+03-04-25,Apr,4191,19,-1,235,2160,45-54,Female,Mobile,YouTube Search,United States
+04-04-25,Apr,2726,35,48,399,314,25-34,Male,Mobile,Channel Pages,United States
+05-04-25,Apr,2077,24,50,20,1560,18-24,Male,Mobile,Suggested Videos,United States
+06-04-25,Apr,4447,10,-2,225,1457,18-24,Male,Mobile,YouTube Search,United States
+07-04-25,Apr,2541,6,30,230,1252,13-17,Male,Tablet,Suggested Videos,United States
+08-04-25,Apr,2249,42,4,174,1423,35-44,Female,Desktop,External,United States
+09-04-25,Apr,2505,13,22,278,735,18-24,Male,Tablet,YouTube Search,United States
+10-04-25,Apr,4596,31,11,431,146,25-34,Male,Desktop,Browse Features,United States
+11-04-25,Apr,2556,9,19,358,134,55+,Male,Mobile,YouTube Search,United States
+12-04-25,Apr,4167,31,28,23,666,18-24,Male,Desktop,Browse Features,United States
+13-04-25,Apr,3492,31,3,393,688,18-24,Male,Mobile,External,United States
+14-04-25,Apr,3375,35,45,164,644,18-24,Male,Desktop,Browse Features,United States
+15-04-25,Apr,1514,30,45,414,1358,25-34,Male,Mobile,YouTube Search,United States
+16-04-25,Apr,3184,37,21,22,772,18-24,Male,Tablet,Browse Features,United States
+17-04-25,Apr,2543,35,41,390,1830,18-24,Female,Mobile,YouTube Search,United States
+18-04-25,Apr,4920,5,10,170,1986,25-34,Female,Mobile,Suggested Videos,United States
+19-04-25,Apr,4632,44,5,388,1050,25-34,Female,Mobile,Browse Features,United States
+20-04-25,Apr,4682,45,12,192,1868,35-44,Female,Mobile,External,United States
+21-04-25,Apr,779,20,4,191,683,13-17,Male,Tablet,External,United States
+22-04-25,Apr,1171,31,42,324,375,25-34,Male,Mobile,YouTube Search,United States
+23-04-25,Apr,2645,39,-2,300,1459,18-24,Male,Mobile,Suggested Videos,United States
+24-04-25,Apr,4075,13,42,410,1370,45-54,Female,Mobile,Channel Pages,United States
+25-04-25,Apr,1572,39,15,29,1267,18-24,Male,Mobile,YouTube Search,United States
+26-04-25,Apr,4284,20,18,412,105,45-54,Female,Desktop,YouTube Search,United States
+27-04-25,Apr,524,5,22,324,1127,18-24,Male,Desktop,YouTube Search,United States
+28-04-25,Apr,2590,36,-2,192,1327,25-34,Male,Desktop,Suggested Videos,United States
+29-04-25,Apr,4253,41,28,72,730,45-54,Male,Mobile,YouTube Search,United States
+30-04-25,Apr,4117,24,28,145,1439,35-44,Female,Mobile,Browse Features,United States
+01-05-25,May,4920,43,44,369,9,18-24,Female,Mobile,Suggested Videos,India
+02-05-25,May,1994,43,10,413,724,35-44,Female,Mobile,YouTube Search,India
+03-05-25,May,794,41,41,231,1208,45-54,Female,Mobile,External,India
+04-05-25,May,3915,17,43,304,1820,35-44,Male,Mobile,Suggested Videos,India
+05-05-25,May,1424,3,6,288,2116,25-34,Male,Desktop,YouTube Search,India
+06-05-25,May,1545,33,1,215,1915,18-24,Male,Mobile,YouTube Search,India
+07-05-25,May,3372,22,37,370,193,55+,Male,Mobile,Channel Pages,India
+08-05-25,May,4570,11,24,71,1450,35-44,Male,Mobile,Channel Pages,India
+09-05-25,May,2381,31,13,252,2201,18-24,Female,Mobile,Channel Pages,India
+10-05-25,May,3944,37,28,386,319,35-44,Male,Mobile,Direct,India
+11-05-25,May,3279,31,47,447,1567,35-44,Male,TV,Suggested Videos,India
+12-05-25,May,3724,39,24,67,1915,35-44,Male,TV,External,India
+13-05-25,May,4606,21,42,386,2492,25-34,Male,Tablet,Direct,India
+14-05-25,May,2996,11,20,304,464,35-44,Male,Desktop,Suggested Videos,India
+15-05-25,May,4581,28,35,374,943,18-24,Male,Mobile,Suggested Videos,India
+16-05-25,May,4560,14,44,60,2275,35-44,Male,Mobile,Direct,India
+17-05-25,May,4845,18,27,394,1194,25-34,Male,Desktop,Suggested Videos,India
+18-05-25,May,3953,9,9,174,1628,35-44,Male,Mobile,Browse Features,India
+19-05-25,May,3275,43,24,418,1362,35-44,Male,Tablet,Browse Features,India
+20-05-25,May,4208,45,3,322,1641,45-54,Male,Mobile,Suggested Videos,India
+21-05-25,May,626,17,30,128,1675,25-34,Male,Desktop,Channel Pages,India
+22-05-25,May,3188,24,-1,36,956,55+,Male,Mobile,Direct,India
+23-05-25,May,1925,15,27,360,1816,25-34,Male,Desktop,External,India
+24-05-25,May,1032,45,36,329,2341,35-44,Male,Mobile,Suggested Videos,India
+25-05-25,May,1005,12,34,307,1848,35-44,Female,Mobile,Suggested Videos,India
+26-05-25,May,4927,6,2,136,92,18-24,Female,Mobile,Browse Features,India
+27-05-25,May,1460,44,47,253,2397,25-34,Male,TV,Suggested Videos,India
+28-05-25,May,4959,35,6,407,1483,45-54,Female,Mobile,Browse Features,India
+29-05-25,May,3935,7,6,273,1799,18-24,Male,Tablet,Suggested Videos,India
+30-05-25,May,4272,45,16,366,247,25-34,Male,Mobile,Channel Pages,India
+31-05-25,May,3748,42,22,114,2456,35-44,Male,TV,YouTube Search,India
+01-06-25,Jun,3637,10,28,360,1213,25-34,Male,Mobile,YouTube Search,India
+02-06-25,Jun,1850,41,15,204,1347,25-34,Female,TV,Suggested Videos,India
+03-06-25,Jun,3728,29,39,376,367,25-34,Male,Mobile,Suggested Videos,India
+04-06-25,Jun,2662,6,32,425,1534,18-24,Male,Mobile,External,India
+05-06-25,Jun,3455,5,21,388,2086,45-54,Female,Mobile,External,India
+06-06-25,Jun,3100,18,44,197,1863,18-24,Male,Mobile,YouTube Search,India
+07-06-25,Jun,1047,24,21,80,1017,35-44,Female,Mobile,Browse Features,India
+08-06-25,Jun,2973,34,46,319,1964,45-54,Female,Mobile,Channel Pages,India
+09-06-25,Jun,2597,12,47,274,718,18-24,Female,Desktop,Browse Features,India
+10-06-25,Jun,4565,12,47,188,1536,45-54,Male,Desktop,YouTube Search,India
+11-06-25,Jun,1903,4,30,249,26,18-24,Male,Desktop,Suggested Videos,India
+12-06-25,Jun,3668,36,20,397,506,35-44,Male,Mobile,Suggested Videos,India
+13-06-25,Jun,4851,23,16,73,2026,25-34,Male,Mobile,YouTube Search,India
+14-06-25,Jun,3835,22,5,114,652,13-17,Female,Mobile,Browse Features,India
+15-06-25,Jun,4196,10,-4,40,2323,25-34,Male,Mobile,Browse Features,India
+16-06-25,Jun,3028,34,18,226,951,25-34,Female,TV,Channel Pages,India
+17-06-25,Jun,4081,41,39,384,1255,25-34,Male,Mobile,YouTube Search,India
+18-06-25,Jun,4867,13,42,103,426,25-34,Female,Mobile,YouTube Search,India
+19-06-25,Jun,4487,26,43,163,1572,45-54,Female,Mobile,Suggested Videos,India
+20-06-25,Jun,2611,35,-5,180,620,18-24,Female,Mobile,YouTube Search,India
+21-06-25,Jun,1323,7,14,37,926,35-44,Female,TV,Browse Features,India
+22-06-25,Jun,4819,3,27,31,427,25-34,Male,Mobile,Suggested Videos,India
+23-06-25,Jun,3018,18,47,330,262,18-24,Male,Desktop,YouTube Search,India
+24-06-25,Jun,2420,38,3,218,1113,35-44,Male,Desktop,Suggested Videos,India
+25-06-25,Jun,3616,42,14,266,1652,18-24,Male,Mobile,Direct,India
+26-06-25,Jun,1072,40,46,49,1214,18-24,Female,Desktop,YouTube Search,India
+27-06-25,Jun,4661,24,26,220,376,45-54,Female,Mobile,External,India
+28-06-25,Jun,3876,8,6,358,749,25-34,Male,Desktop,YouTube Search,India
+29-06-25,Jun,1514,6,34,270,1987,18-24,Male,Tablet,Direct,India
+30-06-25,Jun,772,12,27,358,2016,35-44,Male,Mobile,Browse Features,India
+01-07-25,Jul,2097,33,-3,208,1567,18-24,Female,Mobile,Browse Features,India
+02-07-25,Jul,2681,26,4,99,2015,18-24,Male,Mobile,Browse Features,India
+03-07-25,Jul,4500,38,41,52,812,18-24,Male,Mobile,Browse Features,India
+04-07-25,Jul,3406,13,15,443,1424,18-24,Male,Mobile,Browse Features,India
+05-07-25,Jul,2228,7,42,449,1968,55+,Male,Mobile,YouTube Search,India
+06-07-25,Jul,1386,17,7,79,2436,25-34,Male,Mobile,Browse Features,India
+07-07-25,Jul,4647,39,7,73,1549,25-34,Female,Desktop,YouTube Search,India
+08-07-25,Jul,962,29,-1,58,595,45-54,Female,Mobile,Browse Features,India
+09-07-25,Jul,795,43,15,217,2289,35-44,Female,Mobile,Browse Features,India
+10-07-25,Jul,1211,32,18,382,653,18-24,Female,Mobile,Suggested Videos,India
+11-07-25,Jul,4796,4,49,222,1543,55+,Male,Tablet,YouTube Search,India
+12-07-25,Jul,2675,34,18,374,1993,25-34,Female,Mobile,Browse Features,India
+13-07-25,Jul,3534,44,31,194,2369,18-24,Female,Desktop,Browse Features,India
+14-07-25,Jul,4942,31,24,232,2299,18-24,Male,Mobile,YouTube Search,India
+15-07-25,Jul,1575,20,37,71,763,45-54,Male,Mobile,Browse Features,India
+16-07-25,Jul,4287,40,0,60,1078,25-34,Male,Desktop,Suggested Videos,India
+17-07-25,Jul,2614,34,35,89,1111,18-24,Female,Tablet,Suggested Videos,India
+18-07-25,Jul,2828,33,2,395,354,13-17,Male,Mobile,Suggested Videos,India
+19-07-25,Jul,2257,13,29,371,690,25-34,Female,Mobile,Browse Features,India
+20-07-25,Jul,995,20,28,65,2007,18-24,Male,Mobile,Suggested Videos,Canada
+21-07-25,Jul,2681,19,46,214,2004,18-24,Male,Desktop,External,Canada
+22-07-25,Jul,2434,16,40,307,324,18-24,Male,Mobile,Suggested Videos,Canada
+23-07-25,Jul,1171,44,5,77,1535,55+,Male,Mobile,External,Canada
+24-07-25,Jul,2404,6,2,278,333,55+,Male,TV,YouTube Search,Canada
+25-07-25,Jul,2748,40,43,265,1001,18-24,Female,Desktop,External,Canada
+26-07-25,Jul,1056,20,28,53,883,45-54,Male,Mobile,Suggested Videos,Canada
+27-07-25,Jul,4965,9,4,382,2466,25-34,Male,Mobile,Direct,Canada
+28-07-25,Jul,2784,27,11,82,550,18-24,Male,Mobile,Browse Features,Canada
+29-07-25,Jul,2504,24,11,259,1595,25-34,Male,Tablet,Channel Pages,Canada
+30-07-25,Jul,4558,6,48,322,2370,25-34,Male,Desktop,Suggested Videos,Canada
+31-07-25,Jul,3574,38,1,96,2225,25-34,Female,Desktop,Suggested Videos,Canada
+01-08-25,Aug,1317,29,6,35,991,18-24,Male,Mobile,Browse Features,Canada
+02-08-25,Aug,4297,41,39,33,991,25-34,Female,Mobile,Channel Pages,Canada
+03-08-25,Aug,3183,33,17,61,1422,18-24,Male,Mobile,YouTube Search,Canada
+04-08-25,Aug,1944,9,15,75,554,18-24,Female,Mobile,YouTube Search,Canada
+05-08-25,Aug,529,33,39,21,799,18-24,Male,TV,Direct,Canada
+06-08-25,Aug,4122,13,14,277,1033,35-44,Male,Tablet,Browse Features,Canada
+07-08-25,Aug,4094,3,42,261,1492,18-24,Male,Desktop,External,Canada
+08-08-25,Aug,4297,30,24,42,2464,35-44,Male,Mobile,Browse Features,Canada
+09-08-25,Aug,624,27,40,230,1933,13-17,Female,Desktop,YouTube Search,Canada
+10-08-25,Aug,4592,7,18,267,1346,18-24,Male,Mobile,YouTube Search,Canada
+11-08-25,Aug,2873,21,42,388,861,45-54,Male,Desktop,Suggested Videos,Canada
+12-08-25,Aug,2186,3,42,346,1092,55+,Female,TV,Channel Pages,Canada
+13-08-25,Aug,2154,9,8,295,1684,18-24,Female,Mobile,Suggested Videos,Canada
+14-08-25,Aug,2487,21,15,204,1948,25-34,Male,Mobile,Direct,Canada
+15-08-25,Aug,2652,9,39,407,1823,45-54,Female,Desktop,Suggested Videos,Canada
+16-08-25,Aug,2058,44,24,144,1521,13-17,Female,Desktop,Browse Features,Canada
+17-08-25,Aug,3553,10,19,279,1659,25-34,Female,Mobile,Browse Features,Canada
+18-08-25,Aug,1129,8,41,231,1677,18-24,Female,Mobile,YouTube Search,Canada
+19-08-25,Aug,1172,39,22,388,491,18-24,Male,Desktop,Suggested Videos,Canada
+20-08-25,Aug,920,42,11,135,693,35-44,Male,Desktop,Suggested Videos,Canada
+21-08-25,Aug,2451,25,43,171,8,25-34,Male,Mobile,Suggested Videos,Canada
+22-08-25,Aug,2803,26,25,145,1129,45-54,Male,Desktop,YouTube Search,Canada
+23-08-25,Aug,3450,3,-4,314,1129,18-24,Female,Mobile,Direct,Canada
+24-08-25,Aug,2029,37,46,390,1213,18-24,Male,TV,YouTube Search,Canada
+25-08-25,Aug,4654,27,39,360,1774,25-34,Female,Mobile,YouTube Search,Canada
+26-08-25,Aug,1002,42,27,386,504,18-24,Female,Mobile,Channel Pages,Canada
+27-08-25,Aug,911,7,28,268,1909,25-34,Male,TV,YouTube Search,Canada
+28-08-25,Aug,4565,7,32,443,1882,45-54,Female,Mobile,Suggested Videos,Canada
+29-08-25,Aug,2392,10,50,223,2131,18-24,Female,Tablet,YouTube Search,Canada
+30-08-25,Aug,3903,41,43,122,2418,18-24,Male,Mobile,Direct,Canada
+31-08-25,Aug,3814,9,5,375,1352,18-24,Male,Desktop,External,Canada
+01-09-25,Sep,705,41,24,395,974,45-54,Female,TV,Suggested Videos,Canada
+02-09-25,Sep,1296,36,43,28,1940,25-34,Female,Desktop,Suggested Videos,Canada
+03-09-25,Sep,744,23,5,294,290,25-34,Female,Mobile,External,United Kingdom
+04-09-25,Sep,2502,24,3,173,796,13-17,Female,Mobile,YouTube Search,United Kingdom
+05-09-25,Sep,1400,20,1,254,2072,45-54,Male,Desktop,Channel Pages,United Kingdom
+06-09-25,Sep,1678,27,11,299,916,35-44,Female,Mobile,Browse Features,United Kingdom
+07-09-25,Sep,2919,13,26,167,673,25-34,Male,TV,YouTube Search,United Kingdom
+08-09-25,Sep,1704,17,27,124,1415,25-34,Female,Mobile,Browse Features,United Kingdom
+09-09-25,Sep,3083,34,43,108,698,13-17,Male,Mobile,Browse Features,United Kingdom
+10-09-25,Sep,706,6,37,447,1460,18-24,Male,Mobile,Channel Pages,United Kingdom
+11-09-25,Sep,646,9,26,219,74,35-44,Male,Mobile,Suggested Videos,United Kingdom
+12-09-25,Sep,1084,34,2,72,1460,45-54,Male,Desktop,YouTube Search,United Kingdom
+13-09-25,Sep,3175,35,12,147,556,18-24,Male,Mobile,YouTube Search,United Kingdom
+14-09-25,Sep,3475,6,38,396,151,13-17,Female,Tablet,YouTube Search,United Kingdom
+15-09-25,Sep,2787,39,-4,257,1520,18-24,Female,Mobile,Browse Features,United Kingdom
+16-09-25,Sep,1376,8,0,326,1285,18-24,Male,Desktop,Suggested Videos,United Kingdom
+17-09-25,Sep,3745,8,25,392,1216,18-24,Male,TV,YouTube Search,United Kingdom
+18-09-25,Sep,4266,12,16,62,1206,45-54,Male,TV,Browse Features,United Kingdom
+19-09-25,Sep,1236,35,50,406,947,18-24,Male,Tablet,External,United Kingdom
+20-09-25,Sep,3935,25,-3,275,1974,25-34,Female,Mobile,Channel Pages,United Kingdom
+21-09-25,Sep,2034,5,38,167,1384,18-24,Male,Desktop,YouTube Search,United Kingdom
+22-09-25,Sep,3902,37,28,45,335,25-34,Male,Mobile,YouTube Search,United Kingdom
+23-09-25,Sep,3550,5,13,82,1312,25-34,Male,Mobile,Suggested Videos,United Kingdom
+24-09-25,Sep,1747,36,48,219,2019,25-34,Female,Mobile,YouTube Search,United Kingdom
+25-09-25,Sep,3709,18,9,322,964,45-54,Male,Mobile,Suggested Videos,United Kingdom
+26-09-25,Sep,4399,10,10,422,2410,13-17,Male,Mobile,YouTube Search,United Kingdom
+27-09-25,Sep,3954,15,22,194,1870,35-44,Female,Mobile,Channel Pages,United Kingdom
+28-09-25,Sep,552,16,-2,262,1206,45-54,Male,Mobile,Channel Pages,United Kingdom
+29-09-25,Sep,4719,33,12,127,1242,18-24,Female,Desktop,YouTube Search,United Kingdom
+30-09-25,Sep,4154,44,-5,399,1923,18-24,Male,Mobile,YouTube Search,United Kingdom
+01-10-25,Oct,1129,23,34,166,2329,45-54,Male,Mobile,Suggested Videos,United Kingdom
+02-10-25,Oct,1906,40,24,174,744,25-34,Female,Mobile,Suggested Videos,United Kingdom
+03-10-25,Oct,3540,42,19,70,587,13-17,Male,Mobile,External,United Kingdom
+04-10-25,Oct,4994,6,3,146,681,35-44,Male,Mobile,Suggested Videos,United Kingdom
+05-10-25,Oct,756,41,34,390,1356,25-34,Male,Mobile,YouTube Search,United Kingdom
+06-10-25,Oct,2118,32,6,52,1293,25-34,Male,TV,YouTube Search,United Kingdom
+07-10-25,Oct,4875,25,10,443,967,35-44,Male,Desktop,Suggested Videos,United Kingdom
+08-10-25,Oct,3643,39,9,88,1786,18-24,Female,Desktop,External,United Kingdom
+09-10-25,Oct,2615,19,22,209,1747,45-54,Male,Mobile,YouTube Search,United Kingdom
+10-10-25,Oct,1379,42,30,106,2098,45-54,Male,Mobile,YouTube Search,United Kingdom
+11-10-25,Oct,970,27,20,151,727,18-24,Male,Desktop,Suggested Videos,United Kingdom
+12-10-25,Oct,3605,32,25,134,393,25-34,Male,Mobile,YouTube Search,United Kingdom
+13-10-25,Oct,3271,36,1,51,575,18-24,Male,Mobile,Channel Pages,Australia
+14-10-25,Oct,648,33,34,260,292,35-44,Male,Tablet,Browse Features,Australia
+15-10-25,Oct,4263,34,40,336,1140,25-34,Female,Mobile,YouTube Search,Australia
+16-10-25,Oct,4046,27,43,42,300,35-44,Male,Desktop,Browse Features,Australia
+17-10-25,Oct,4175,40,25,353,262,18-24,Male,Mobile,YouTube Search,Australia
+18-10-25,Oct,3392,44,38,414,2182,25-34,Male,Mobile,External,Australia
+19-10-25,Oct,3459,37,34,101,2093,45-54,Male,Mobile,External,Australia
+20-10-25,Oct,676,26,31,359,608,45-54,Male,Desktop,Browse Features,Australia
+21-10-25,Oct,1519,19,34,352,975,25-34,Male,Desktop,External,Australia
+22-10-25,Oct,3684,18,18,186,1688,18-24,Male,Mobile,Suggested Videos,Australia
+23-10-25,Oct,3956,14,42,217,1353,18-24,Male,Mobile,Suggested Videos,Australia
+24-10-25,Oct,1664,26,-3,449,1388,25-34,Female,Mobile,Suggested Videos,Australia
+25-10-25,Oct,1731,28,40,85,2238,25-34,Male,Mobile,YouTube Search,Australia
+26-10-25,Oct,1685,38,44,187,648,25-34,Male,Mobile,Browse Features,Australia
+27-10-25,Oct,1452,30,1,99,1522,18-24,Female,Mobile,YouTube Search,Australia
+28-10-25,Oct,4124,29,49,228,1558,55+,Male,Tablet,Suggested Videos,Australia
+29-10-25,Oct,4908,17,40,134,81,25-34,Female,Mobile,YouTube Search,Australia
+30-10-25,Oct,4578,42,8,37,2309,25-34,Male,Mobile,YouTube Search,Australia
+31-10-25,Oct,3709,37,28,328,716,18-24,Female,Mobile,Suggested Videos,Australia
+01-11-25,Nov,1828,28,25,243,1218,18-24,Female,Mobile,YouTube Search,Australia
+02-11-25,Nov,2822,8,38,223,553,35-44,Male,Mobile,Suggested Videos,Australia
+03-11-25,Nov,931,24,40,218,814,45-54,Female,Mobile,Suggested Videos,Australia
+04-11-25,Nov,4016,3,10,49,2193,18-24,Male,Desktop,Suggested Videos,Australia
+05-11-25,Nov,1139,9,36,250,1842,13-17,Male,Mobile,Suggested Videos,Australia
+06-11-25,Nov,2730,23,28,153,795,18-24,Male,Mobile,Channel Pages,Australia
+07-11-25,Nov,2025,9,22,84,1660,35-44,Male,Mobile,Channel Pages,Australia
+08-11-25,Nov,2166,27,29,397,28,25-34,Male,Mobile,Suggested Videos,Australia
+09-11-25,Nov,2749,15,32,362,2213,18-24,Male,Mobile,YouTube Search,Australia
+10-11-25,Nov,3400,24,43,67,1822,13-17,Female,Mobile,Suggested Videos,Australia
+11-11-25,Nov,2351,45,-1,362,835,25-34,Female,Mobile,Browse Features,Australia
+12-11-25,Nov,4348,27,4,118,1465,25-34,Male,Mobile,Channel Pages,Australia
+13-11-25,Nov,2118,36,26,134,28,13-17,Male,Tablet,External,Australia
+14-11-25,Nov,4857,42,22,45,490,25-34,Female,Mobile,YouTube Search,Australia
+15-11-25,Nov,2234,8,32,112,2345,13-17,Male,Mobile,External,Australia
+16-11-25,Nov,2460,11,44,346,1741,25-34,Male,Mobile,Channel Pages,Australia
+17-11-25,Nov,1961,24,29,263,1668,55+,Male,Tablet,Browse Features,Japan
+18-11-25,Nov,1143,9,45,274,106,35-44,Female,Desktop,YouTube Search,Japan
+19-11-25,Nov,2911,36,23,149,2341,35-44,Male,Mobile,Suggested Videos,Japan
+20-11-25,Nov,3715,22,30,349,2488,25-34,Female,Mobile,YouTube Search,Japan
+21-11-25,Nov,4591,20,-3,431,792,18-24,Female,Mobile,Browse Features,Japan
+22-11-25,Nov,3370,6,48,404,2089,45-54,Male,Tablet,Browse Features,Japan
+23-11-25,Nov,2576,20,28,214,1316,18-24,Male,Desktop,Suggested Videos,Japan
+24-11-25,Nov,1416,15,21,272,791,25-34,Male,Mobile,Suggested Videos,Japan
+25-11-25,Nov,3790,29,23,405,1942,18-24,Male,Mobile,Suggested Videos,Japan
+26-11-25,Nov,1375,25,11,218,2476,18-24,Male,Mobile,Suggested Videos,Japan
+27-11-25,Nov,2563,38,39,228,643,18-24,Male,Mobile,Suggested Videos,Japan
+28-11-25,Nov,2583,37,23,418,1964,18-24,Female,Mobile,Suggested Videos,Japan
+29-11-25,Nov,3521,36,6,361,580,13-17,Male,Mobile,Direct,Japan
+30-11-25,Nov,1164,16,36,333,1505,55+,Male,TV,Browse Features,Japan
+01-12-25,Dec,4764,37,46,300,314,18-24,Male,Mobile,Suggested Videos,Japan
+02-12-25,Dec,1509,37,11,133,861,25-34,Male,Mobile,YouTube Search,Japan
+03-12-25,Dec,3238,9,2,292,858,55+,Male,Tablet,Browse Features,Japan
+04-12-25,Dec,4860,29,25,317,757,18-24,Female,Mobile,Browse Features,Japan
+05-12-25,Dec,1332,7,14,217,2045,25-34,Female,Mobile,Suggested Videos,Japan
+06-12-25,Dec,4845,13,8,100,543,45-54,Male,Mobile,External,Japan
+07-12-25,Dec,1735,44,24,403,394,25-34,Male,Mobile,YouTube Search,Japan
+08-12-25,Dec,2747,13,15,349,2072,18-24,Male,Desktop,Suggested Videos,Japan
+09-12-25,Dec,1732,36,1,322,381,18-24,Male,Mobile,Suggested Videos,Japan
+10-12-25,Dec,3708,9,50,113,2386,45-54,Female,Mobile,Browse Features,Japan
+11-12-25,Dec,4442,18,46,29,305,25-34,Male,Mobile,External,Japan
+12-12-25,Dec,4370,38,21,241,11,25-34,Male,Mobile,Suggested Videos,Japan
+13-12-25,Dec,4231,45,2,233,1665,25-34,Female,Desktop,Browse Features,Japan
+14-12-25,Dec,4952,19,7,93,1109,45-54,Female,Mobile,YouTube Search,Japan
+15-12-25,Dec,3037,29,45,402,1062,18-24,Male,Mobile,YouTube Search,Japan
+16-12-25,Dec,4635,30,34,187,1487,25-34,Male,Desktop,Browse Features,Japan
+17-12-25,Dec,2747,43,26,339,1407,35-44,Male,TV,Direct,Germany
+18-12-25,Dec,4414,17,35,132,1759,25-34,Female,Mobile,YouTube Search,Germany
+19-12-25,Dec,4560,23,47,58,221,18-24,Male,Desktop,YouTube Search,Germany
+20-12-25,Dec,2942,32,36,250,651,18-24,Female,Mobile,Browse Features,Germany
+21-12-25,Dec,2216,10,22,140,1219,25-34,Male,Mobile,YouTube Search,Germany
+22-12-25,Dec,517,27,31,303,2206,45-54,Male,Mobile,Browse Features,Germany
+23-12-25,Dec,4257,32,41,337,2342,55+,Male,Desktop,YouTube Search,Germany
+24-12-25,Dec,1456,13,33,278,778,25-34,Male,Desktop,Browse Features,Germany
+25-12-25,Dec,813,41,32,245,1696,35-44,Male,Mobile,YouTube Search,Germany
+26-12-25,Dec,2233,17,43,178,858,18-24,Female,Tablet,YouTube Search,Germany
+27-12-25,Dec,1700,9,42,43,1162,25-34,Male,Tablet,Browse Features,Germany
+28-12-25,Dec,4862,12,6,40,1438,35-44,Female,Mobile,Suggested Videos,Germany
+29-12-25,Dec,2249,22,32,311,2434,25-34,Female,TV,Browse Features,Germany
+30-12-25,Dec,2731,16,41,327,1338,18-24,Male,Mobile,Direct,Germany
+31-12-25,Dec,2851,10,42,352,1624,25-34,Female,Mobile,Channel Pages,Germany
+01-01-26,Jan,3515,43,14,377,758,25-34,Female,Desktop,Channel Pages,Germany
+02-01-26,Jan,3213,20,36,328,1136.2,35-44,Male,Mobile,Browse Features,Germany
+03-01-26,Jan,4652,26,47,345,2182.9,18-24,Male,Mobile,Browse Features,Germany
+04-01-26,Jan,2843,16,17,375,248,25-34,Female,Mobile,Direct,Germany
+05-01-26,Jan,2207,31,1,267,567.6,18-24,Female,Desktop,Suggested Videos,Germany
+06-01-26,Jan,1999,20,23,48,1736.6,18-24,Male,Mobile,YouTube Search,Germany
+07-01-26,Jan,2497,16,31,92,1791.4,18-24,Male,Desktop,YouTube Search,Germany
+08-01-26,Jan,1807,14,-3,332,300.6,55+,Male,Desktop,Suggested Videos,Germany
+09-01-26,Jan,2530,24,29,300,907.3,13-17,Male,Mobile,Suggested Videos,Germany
+10-01-26,Jan,2724,7,20,224,1264.4,18-24,Female,Mobile,Suggested Videos,Germany
+11-01-26,Jan,2881,31,26,403,284.5,25-34,Male,Tablet,Suggested Videos,Germany
+12-01-26,Jan,5018,11,59,428,460.3,25-34,Female,Desktop,YouTube Search,Germany
+13-01-26,Jan,1220,29,-3,27,973.5,25-34,Male,Mobile,Suggested Videos,Germany
+14-01-26,Jan,2152,29,37,422,2138.1,55+,Female,Tablet,YouTube Search,Germany
+15-01-26,Jan,1280,17,11,91,1044.3,35-44,Male,Mobile,Suggested Videos,Germany
+16-01-26,Jan,2237,20,24,209,1563.4,18-24,Female,TV,Suggested Videos,Brazil
+17-01-26,Jan,4329,13,34,384,1050.2,25-34,Male,Mobile,Suggested Videos,Brazil
+18-01-26,Jan,4286,20,52,262,143.5,25-34,Male,Desktop,Browse Features,Brazil
+19-01-26,Jan,2024,21,18,440,1532.4,18-24,Male,Tablet,Suggested Videos,Brazil
+20-01-26,Jan,2507,8,16,95,1092.8,25-34,Male,Mobile,Suggested Videos,Brazil
+21-01-26,Jan,2446,13,41,199,1440.7,18-24,Male,Mobile,External,Brazil
+22-01-26,Jan,3250,25,40,324,2110.3,13-17,Male,Desktop,YouTube Search,Brazil
+23-01-26,Jan,3082,19,29,281,2139.2,45-54,Female,Desktop,Browse Features,Brazil
+24-01-26,Jan,3332,18,-3,323,1414.7,35-44,Male,Desktop,YouTube Search,Brazil
+25-01-26,Jan,1681,16,20,42,1265,25-34,Male,TV,Browse Features,Brazil
+26-01-26,Jan,2809,22,10,253,693.1,25-34,Male,Mobile,Suggested Videos,Brazil
+27-01-26,Jan,3365,23,36,276,2082.6,35-44,Male,Mobile,Browse Features,Brazil
+28-01-26,Jan,4645,21,53,118,267.4,25-34,Male,Mobile,YouTube Search,Brazil
+29-01-26,Jan,1275,17,19,34,2417,25-34,Female,Mobile,Suggested Videos,Brazil
+30-01-26,Jan,3184,20,30,263,91.1,18-24,Male,Mobile,YouTube Search,Brazil
+31-01-26,Jan,3066,20,22,340,1316.8,25-34,Female,Tablet,YouTube Search,Brazil
+01-02-26,Feb,3674,25,42,81,1873.9,25-34,Male,Mobile,External,Brazil
+02-02-26,Feb,2133,18,12,80,881,55+,Male,Desktop,YouTube Search,Brazil
+03-02-26,Feb,1443,13,2,282,516.5,35-44,Male,Tablet,Suggested Videos,Brazil
+04-02-26,Feb,2752,15,30,101,1463.6,13-17,Female,Mobile,YouTube Search,Brazil
+05-02-26,Feb,676,12,46,144,1120.6,45-54,Female,Mobile,Suggested Videos,Brazil
+06-02-26,Feb,2983,25,1,312,512.2,35-44,Male,Desktop,Suggested Videos,Brazil
+07-02-26,Feb,2672,11,18,363,78.7,25-34,Female,Mobile,Suggested Videos,Brazil
+08-02-26,Feb,5249,7,48,173,132,25-34,Male,Mobile,Suggested Videos,Brazil
+09-02-26,Feb,3383,33,28,407,2068.5,25-34,Male,Mobile,YouTube Search,Brazil
+10-02-26,Feb,3577,16,44,227,1031.1,18-24,Male,Mobile,Suggested Videos,France
+11-02-26,Feb,1983,30,14,223,967.1,45-54,Male,Mobile,Suggested Videos,France
+12-02-26,Feb,3959,24,38,431,121.7,18-24,Male,Mobile,Suggested Videos,France
+13-02-26,Feb,1757,22,31,31,331.3,18-24,Male,Mobile,Suggested Videos,France
+14-02-26,Feb,4562,34,54,279,810.9,25-34,Female,Mobile,External,France
+15-02-26,Feb,4709,22,41,88,952.2,25-34,Male,Mobile,Suggested Videos,France
+16-02-26,Feb,2328,16,14,241,1570.6,18-24,Male,Desktop,External,France
+17-02-26,Feb,1788,18,13,379,261.1,18-24,Female,Mobile,YouTube Search,France
+18-02-26,Feb,2990,10,10,214,1496.1,18-24,Male,Desktop,Browse Features,France
+19-02-26,Feb,2593,25,16,290,244.1,18-24,Male,Mobile,YouTube Search,France
+20-02-26,Feb,2565,27,21,444,1076.1,55+,Male,Desktop,Browse Features,France
+21-02-26,Feb,3585,28,47,201,1966.4,25-34,Male,Mobile,Suggested Videos,France
+22-02-26,Feb,2039,27,11,206,399,18-24,Male,TV,YouTube Search,France
+23-02-26,Feb,2975,29,46,115,344.1,45-54,Male,Tablet,Suggested Videos,France
+24-02-26,Feb,3199,10,48,115,2337.7,25-34,Male,Desktop,Suggested Videos,France
+25-02-26,Feb,2439,20,23,192,566.3,45-54,Male,Desktop,Browse Features,France
+26-02-26,Feb,4263,11,29,373,806,18-24,Male,Mobile,External,France
+27-02-26,Feb,4323,19,39,143,1789.8,35-44,Female,Tablet,External,France
+28-02-26,Feb,4110,36,44,304,2255.1,35-44,Male,Mobile,External,France
+01-03-26,Mar,3075,21,10,417,2375,18-24,Female,Tablet,Direct,France
+02-03-26,Mar,3579,15,44,152,988.2,18-24,Male,Tablet,Suggested Videos,Italy
+03-03-26,Mar,3044,11,44,117,2083.7,35-44,Male,Mobile,Channel Pages,Italy
+04-03-26,Mar,3210,17,36,92,1420.8,25-34,Male,Mobile,Direct,Italy
+05-03-26,Mar,844,32,2,30,1183.3,18-24,Female,Desktop,YouTube Search,Italy
+06-03-26,Mar,3347,26,31,257,1335.8,18-24,Female,Mobile,Suggested Videos,Italy
+07-03-26,Mar,4667,45,28,331,727.8,18-24,Male,Mobile,Suggested Videos,Italy
+08-03-26,Mar,2356,34,42,172,1167.8,35-44,Male,Mobile,YouTube Search,Italy
+09-03-26,Mar,4901,27,38,62,22.3,25-34,Female,Mobile,Channel Pages,Italy
+10-03-26,Mar,4181,22,38,278,1320,35-44,Female,Desktop,External,Italy
+11-03-26,Mar,3024,21,40,335,205.2,35-44,Female,Desktop,YouTube Search,Italy
+12-03-26,Mar,3717,23,24,48,2047.6,13-17,Female,Desktop,Suggested Videos,Italy
+13-03-26,Mar,2524,19,30,31,1923.8,35-44,Male,Mobile,Suggested Videos,Italy
+14-03-26,Mar,5035,9,43,102,1397.3,25-34,Male,Tablet,Channel Pages,Italy
+15-03-26,Mar,3328,17,31,125,2181.1,55+,Male,Mobile,External,Italy
+16-03-26,Mar,3286,16,29,62,2345.8,35-44,Male,Mobile,YouTube Search,Italy
+17-03-26,Mar,3581,28,13,390,1052.1,25-34,Male,Mobile,Suggested Videos,Italy
+18-03-26,Mar,2672,29,43,104,567.7,18-24,Male,Desktop,Suggested Videos,Italy
+19-03-26,Mar,1788,31,7,91,772.7,18-24,Male,Mobile,Channel Pages,Italy
+20-03-26,Mar,3276,26,41,94,1311.4,18-24,Female,Desktop,External,Mexico
+21-03-26,Mar,3166,7,29,240,1014.3,13-17,Female,Desktop,External,Mexico
+22-03-26,Mar,3498,24,36,267,805.4,25-34,Male,Mobile,YouTube Search,Mexico
+23-03-26,Mar,3899,7,25,93,2208.8,18-24,Male,Mobile,External,Mexico
+24-03-26,Mar,2072,18,14,296,1258.7,18-24,Female,Mobile,Browse Features,Mexico
+25-03-26,Mar,3059,22,30,434,958,18-24,Male,Mobile,YouTube Search,Mexico
+26-03-26,Mar,2263,36,39,291,1473.3,25-34,Male,Mobile,Direct,Mexico
+27-03-26,Mar,3243,13,15,268,1113.9,25-34,Female,Mobile,YouTube Search,Mexico
+28-03-26,Mar,3274,36,36,403,328.4,25-34,Male,Desktop,Suggested Videos,Mexico
+29-03-26,Mar,4217,31,36,369,828.8,13-17,Male,Tablet,YouTube Search,Mexico
+30-03-26,Mar,3368,28,19,412,680.5,18-24,Male,Mobile,Direct,Mexico
+31-03-26,Mar,2910,26,48,179,867.5,18-24,Female,Mobile,YouTube Search,Mexico
+01-04-26,Apr,3033,34,10,419,280,25-34,Male,Mobile,Suggested Videos,Mexico
+02-04-26,Apr,450,34,10,65,2429.7,25-34,Male,Mobile,Channel Pages,Mexico
+03-04-26,Apr,2578,23,25,23,2186.7,25-34,Male,Mobile,YouTube Search,Mexico
+04-04-26,Apr,3312,19,25,260,2329.9,45-54,Female,Desktop,YouTube Search,Mexico
+05-04-26,Apr,2854,28,22,359,1782.4,25-34,Male,Mobile,Browse Features,Mexico
+06-04-26,Apr,3707,30,26,144,1644.6,18-24,Male,Mobile,YouTube Search,Mexico
+07-04-26,Apr,3341,7,38,179,2415.4,25-34,Female,Desktop,Browse Features,Singapore
+08-04-26,Apr,2527,25,12,230,1443,25-34,Male,Mobile,Browse Features,Singapore
+09-04-26,Apr,1382,23,40,281,528.8,25-34,Male,Mobile,YouTube Search,Singapore
+10-04-26,Apr,3471,21,29,24,1489.6,25-34,Male,Mobile,Direct,Singapore
+11-04-26,Apr,4133,27,71,435,1521.7,35-44,Female,Mobile,Suggested Videos,Singapore
+12-04-26,Apr,1382,25,24,380,833.6,35-44,Male,Tablet,Browse Features,Singapore
+13-04-26,Apr,4961,36,76,418,2117.3,18-24,Female,Mobile,Browse Features,Singapore
+14-04-26,Apr,3980,12,37,51,221.6,25-34,Male,TV,Channel Pages,Singapore
+15-04-26,Apr,3468,21,37,151,533.5,55+,Male,Mobile,Browse Features,Singapore
+16-04-26,Apr,2618,25,48,272,589,18-24,Female,Mobile,Suggested Videos,Singapore
+17-04-26,Apr,1332,17,8,270,2035.8,35-44,Male,Tablet,Browse Features,Singapore
+18-04-26,Apr,2150,27,23,319,2218,25-34,Male,Mobile,Channel Pages,Singapore
+19-04-26,Apr,2889,30,29,438,812.1,13-17,Female,Mobile,External,Singapore
+20-04-26,Apr,2145,21,37,290,831.5,25-34,Male,Desktop,Direct,Singapore
+21-04-26,Apr,2825,23,15,98,1059.8,18-24,Male,Mobile,Direct,Singapore
+22-04-26,Apr,4110,24,49,34,201.9,18-24,Female,Mobile,Direct,Singapore
+23-04-26,Apr,3509,25,7,327,7.6,25-34,Female,Desktop,External,South Africa
+24-04-26,Apr,3087,10,18,211,1799.2,25-34,Male,Desktop,YouTube Search,South Africa
+25-04-26,Apr,1923,19,29,62,1932.3,25-34,Female,Mobile,Suggested Videos,South Africa
+26-04-26,Apr,4184,31,32,154,387.7,18-24,Female,Mobile,Channel Pages,South Africa
+27-04-26,Apr,3228,25,8,356,304.2,25-34,Male,Mobile,Suggested Videos,South Africa
+28-04-26,Apr,3218,35,14,358,1703.2,25-34,Female,Mobile,Suggested Videos,South Africa
+29-04-26,Apr,3403,22,35,304,1169.4,45-54,Male,Desktop,YouTube Search,South Africa
+30-04-26,Apr,1962,32,22,416,2335.6,18-24,Male,Tablet,Suggested Videos,South Africa
+01-05-26,May,2248,21,47,276,957,13-17,Male,Mobile,YouTube Search,South Africa
+02-05-26,May,3745,22,23,27,1684.8,13-17,Female,Mobile,YouTube Search,South Africa
+03-05-26,May,3297,19,12,184,2238.6,25-34,Female,Mobile,Browse Features,South Africa
+04-05-26,May,4876,24,41,190,2110.4,35-44,Female,Desktop,YouTube Search,South Africa
+05-05-26,May,2625,24,23,49,483.8,35-44,Male,Mobile,Browse Features,South Africa
+06-05-26,May,2109,32,29,101,281.3,18-24,Male,Mobile,External,South Africa
+07-05-26,May,4171,19,28,429,1385.4,18-24,Female,Mobile,Browse Features,South Africa
+08-05-26,May,3127,23,14,359,314,13-17,Male,Desktop,Direct,United Arab Emirates
+09-05-26,May,2953,22,31,197,1545.2,18-24,Male,Tablet,Suggested Videos,United Arab Emirates
+10-05-26,May,2740,23,39,250,1492.5,25-34,Male,TV,External,United Arab Emirates
+11-05-26,May,1349,19,29,382,705.6,13-17,Male,Mobile,YouTube Search,United Arab Emirates
+12-05-26,May,3467,36,63,368,2300.9,25-34,Female,Mobile,Suggested Videos,United Arab Emirates
+13-05-26,May,2958,22,26,265,1734.1,45-54,Female,Desktop,External,United Arab Emirates
+14-05-26,May,2243,10,13,302,1196.7,45-54,Male,Mobile,Direct,United Arab Emirates
+15-05-26,May,3528,24,25,303,1230.1,25-34,Male,Desktop,Browse Features,United Arab Emirates
+16-05-26,May,3375,22,37,194,715.2,18-24,Female,Desktop,Suggested Videos,United Arab Emirates
+17-05-26,May,3004,32,56,231,1834.9,25-34,Female,Desktop,Direct,United Arab Emirates
+18-05-26,May,3274,21,37,61,832.5,25-34,Female,Mobile,YouTube Search,United Arab Emirates
+19-05-26,May,2887,28,27,275,390,18-24,Male,Desktop,Browse Features,United Arab Emirates
+20-05-26,May,4588,28,13,326,931.3,25-34,Male,Desktop,Direct,United Arab Emirates
+21-05-26,May,2902,27,42,258,585.3,25-34,Male,Desktop,Direct,United Arab Emirates
+22-05-26,May,1873,34,8,369,864,25-34,Male,Mobile,YouTube Search,United Arab Emirates
+23-05-26,May,3278,17,20,156,550,25-34,Male,TV,Browse Features,Spain
+24-05-26,May,1456,17,32,301,2005,18-24,Male,Tablet,Browse Features,Italy
+25-05-26,May,2210,14,51,116,1814,25-34,Female,Mobile,External,Spain
+26-05-26,May,1661,27,14,427,1512,45-54,Male,TV,Channel Pages,Spain
+27-05-26,May,2507,21,22,327,286,45-54,Female,Mobile,Direct,France
+28-05-26,May,2778,9,3,197,1574,45-54,Female,TV,YouTube Search,Italy
+29-05-26,May,3251,41,14,251,1225,35-44,Female,TV,Direct,Spain
+30-05-26,May,2613,10,24,200,75,25-34,Male,Tablet,Direct,Germany
+31-05-26,May,4987,26,39,354,2174,45-54,Male,Desktop,Direct,United States
+01-06-26,Jun,2636,33,42,247,2396,18-24,Female,TV,Browse Features,Italy
+02-06-26,Jun,4498,20,-5,265,1374,25-34,Female,TV,Channel Pages,United States
+03-06-26,Jun,3381,7,7,75,935,25-34,Male,Tablet,Suggested Videos,Germany
+04-06-26,Jun,4440,25,57,182,657,25-34,Male,TV,YouTube Search,France
+05-06-26,Jun,1088,11,60,321,1473,18-24,Female,Mobile,Direct,United States
+06-06-26,Jun,3338,38,38,241,1240,35-44,Female,Mobile,Suggested Videos,Italy
+07-06-26,Jun,2993,42,12,345,1855,35-44,Male,Mobile,YouTube Search,Germany
+08-06-26,Jun,3134,34,0,239,1896,18-24,Female,TV,Suggested Videos,United States
+09-06-26,Jun,3788,6,14,56,2463,35-44,Female,Tablet,Channel Pages,France
+10-06-26,Jun,3389,12,-1,265,730,45-54,Female,Tablet,Browse Features,Italy
+11-06-26,Jun,4075,13,7,182,1515,45-54,Male,TV,Channel Pages,Italy
+12-06-26,Jun,2244,26,39,34,1320,18-24,Female,Mobile,YouTube Search,United States
+13-06-26,Jun,3191,26,19,434,1464,25-34,Female,Tablet,Direct,United States
+14-06-26,Jun,1418,17,38,34,178,18-24,Female,Mobile,Browse Features,France
+15-06-26,Jun,3452,38,46,65,1105,25-34,Female,Tablet,YouTube Search,United States
+16-06-26,Jun,3949,17,16,243,1624,35-44,Male,Desktop,External,France
+17-06-26,Jun,3116,33,55,89,1609,25-34,Male,TV,Channel Pages,Italy
+18-06-26,Jun,2084,11,4,269,2468,25-34,Male,Tablet,Browse Features,United States
+19-06-26,Jun,3618,35,46,232,2377,45-54,Female,TV,Browse Features,United States
+20-06-26,Jun,2705,20,20,123,574,25-34,Female,Desktop,Suggested Videos,Germany
+21-06-26,Jun,1989,31,0,155,1046,25-34,Male,Tablet,Direct,Italy
+22-06-26,Jun,1756,11,26,88,548,18-24,Female,Mobile,Browse Features,France
+23-06-26,Jun,2619,37,58,326,68,45-54,Female,Tablet,YouTube Search,France
+24-06-26,Jun,1655,32,-5,303,590,25-34,Female,Tablet,Direct,United States
+25-06-26,Jun,878,30,34,310,2497,18-24,Female,Tablet,External,France
+26-06-26,Jun,3184,25,7,439,300,45-54,Female,Mobile,Browse Features,Italy
+27-06-26,Jun,1772,41,35,172,1044,45-54,Male,Desktop,Suggested Videos,United States
+28-06-26,Jun,3659,17,28,274,1725,25-34,Female,Tablet,Direct,France
+29-06-26,Jun,3335,9,-1,306,1128,35-44,Female,Tablet,YouTube Search,Spain
+30-06-26,Jun,2819,37,25,311,1573,35-44,Female,Tablet,Channel Pages,United States
+01-07-26,Jul,1499,21,22,76,1994,25-34,Female,TV,Channel Pages,France
+02-07-26,Jul,3470,15,43,99,2108,25-34,Female,Tablet,Direct,United States
+03-07-26,Jul,2827,12,40,244,1588,35-44,Male,TV,Channel Pages,Italy
+04-07-26,Jul,3031,19,28,441,1146,45-54,Female,Mobile,YouTube Search,Spain
+05-07-26,Jul,1469,5,29,134,1999,35-44,Female,Mobile,Browse Features,Germany
+06-07-26,Jul,861,34,55,278,824,35-44,Male,Tablet,Suggested Videos,United States
+07-07-26,Jul,933,9,10,438,985,35-44,Male,Tablet,Channel Pages,Italy
+08-07-26,Jul,1244,38,29,191,1802,18-24,Female,Tablet,Direct,Spain
+09-07-26,Jul,1567,41,41,348,459,25-34,Female,Tablet,Direct,Germany
+10-07-26,Jul,2636,33,21,407,1193,25-34,Male,Tablet,Suggested Videos,Italy
+11-07-26,Jul,1300,6,15,122,525,45-54,Male,TV,Browse Features,Germany
+12-07-26,Jul,1748,17,29,440,563,18-24,Male,Tablet,Suggested Videos,United States
+13-07-26,Jul,3952,35,13,376,1273,45-54,Female,Tablet,Channel Pages,France
+14-07-26,Jul,3942,26,10,98,834,25-34,Male,Mobile,Channel Pages,United States
+15-07-26,Jul,4659,33,51,387,941,35-44,Female,Tablet,External,Germany
+16-07-26,Jul,3634,21,51,345,631,35-44,Male,Tablet,YouTube Search,France
+17-07-26,Jul,1498,16,53,348,348,35-44,Male,TV,YouTube Search,Spain
+18-07-26,Jul,3839,14,45,198,1953,35-44,Female,TV,External,Germany
+19-07-26,Jul,1130,36,14,369,2197,35-44,Female,Mobile,Direct,Germany
+20-07-26,Jul,1280,14,56,158,521,45-54,Female,Desktop,Browse Features,Italy
+21-07-26,Jul,4606,29,28,207,816,18-24,Female,Tablet,YouTube Search,Spain
+22-07-26,Jul,2165,43,0,314,2089,35-44,Female,Desktop,YouTube Search,Italy
+23-07-26,Jul,2429,25,32,93,1801,25-34,Male,Tablet,External,Germany
+24-07-26,Jul,3799,11,52,55,361,45-54,Female,TV,Suggested Videos,France
+25-07-26,Jul,3600,30,10,303,2484,25-34,Female,TV,External,France
+26-07-26,Jul,4073,25,36,314,2116,45-54,Female,Mobile,External,France
+27-07-26,Jul,1056,24,0,153,917,35-44,Female,TV,Direct,Spain
+28-07-26,Jul,2597,37,4,114,563,18-24,Male,TV,Suggested Videos,Spain
+29-07-26,Jul,3663,33,6,371,486,25-34,Female,Desktop,Suggested Videos,Spain
+30-07-26,Jul,3596,39,21,275,1232,35-44,Female,TV,YouTube Search,Germany
+31-07-26,Jul,1823,20,27,74,1361,35-44,Female,Tablet,Browse Features,United States
